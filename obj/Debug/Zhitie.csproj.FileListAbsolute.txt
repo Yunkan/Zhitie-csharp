@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Zhitie\Zhitie\bin\Debug\Zhitie.exe.config
+C:\Users\User\source\repos\Zhitie\Zhitie\bin\Debug\Zhitie.exe
+C:\Users\User\source\repos\Zhitie\Zhitie\bin\Debug\Zhitie.pdb
+C:\Users\User\source\repos\Zhitie\Zhitie\obj\Debug\Zhitie.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Zhitie\Zhitie\obj\Debug\Zhitie.Form1.resources
+C:\Users\User\source\repos\Zhitie\Zhitie\obj\Debug\Zhitie.Properties.Resources.resources
+C:\Users\User\source\repos\Zhitie\Zhitie\obj\Debug\Zhitie.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Zhitie\Zhitie\obj\Debug\Zhitie.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Zhitie\Zhitie\obj\Debug\Zhitie.exe
+C:\Users\User\source\repos\Zhitie\Zhitie\obj\Debug\Zhitie.pdb
+C:\Users\User\source\repos\Zhitie\Zhitie\obj\Debug\Zhitie.Adventures.resources
+C:\Users\User\source\repos\Zhitie\Zhitie\obj\Debug\Zhitie.FistFight.resources
+C:\Users\User\source\repos\Zhitie\Zhitie\obj\Debug\Zhitie.TwentyOneGame.resources
+C:\Users\User\source\repos\Zhitie\Zhitie\obj\Debug\Zhitie.FishingGame.resources
